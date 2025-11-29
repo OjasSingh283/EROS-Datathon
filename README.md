@@ -105,5 +105,4 @@ python run_server.py
 - Fork, create a feature branch, add tests, and open a PR.
 - Keep changes focused and document config/behavior changes.
 
-## License
-Specify your project's license here.
+
